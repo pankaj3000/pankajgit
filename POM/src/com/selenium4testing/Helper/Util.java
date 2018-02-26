@@ -9,7 +9,7 @@ import org.openqa.selenium.WebDriver;
 public class Util {
 	 
 	static Properties pro;
-	
+	//load the properties files
 	public Util(){
 		
 		try {
